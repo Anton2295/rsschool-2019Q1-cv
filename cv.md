@@ -21,3 +21,13 @@
 * [AVR music postcard ](https://bitbucket.org/Anton2295/avr_music_postcard/src/master/) 
 * [*Occ music file convector](https://bitbucket.org/Anton2295/occ-json-parser/src/master/)
 * [My Githab public repository](https://github.com/Anton2295)
+
+# 6. Education
+* Belarusian state university of informatics and radioelectronics, faculty radioengineering and electronic,specialization radioinformatics 
+
+* "Introduction to HTML" course by CodeCademy
+* "Learn CSS" course by CodeCademy
+* "ASP.net" course by BelSoft 2016 
+
+# 7. English level
+* A2 (Pre-Intermediate). 
