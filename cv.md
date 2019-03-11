@@ -1,4 +1,5 @@
 # 1. Anton Liambovich 
+![photo](img/avatar.png)
 
 # 2. Contacts
 * +375(29)5080190
