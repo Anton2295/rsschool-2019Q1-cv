@@ -1,0 +1,44 @@
+.center {
+    max-width: 1024px;
+    vertical-align: middle;
+
+
+    margin: 0px auto;
+    text-align:left;
+    border: 1px solid #000;
+
+    padding: 50px;
+}
+
+.center h1{
+    display: block;
+    font-size: 2em;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.center p {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.center ul{
+    display: block;
+    list-style-type: disc;
+    margin-top:  16px;
+    margin-bottom:  16px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+
+li{
+    margin: 10px; 
+}
+
